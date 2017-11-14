@@ -2,7 +2,7 @@
 
 We have few users inserted in our `users` table with the `name` and `birth_date` values. We need to list all of our users sorted by UPCOMING BIRTHDAYS.
 
-<b>For example:</b> If John birthday is on March 3th, Anna birthday is on April 10th and today is March 15th then list should looks like:
+<b>For example:</b> If John birthday is on March 3th, Anna birthday is on April 10th and today is March 15th then list should looks like this:
 1. Anna -> April 10th
 2. John -> March 3th
 
