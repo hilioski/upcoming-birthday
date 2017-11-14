@@ -54,3 +54,6 @@ Run the following commands to make initial setup for this Test Case
 ```bash
     php artisan migrate --seed
 ```
+
+## Happy Coding! :)
+Feel free to send me your solution (only BirthdayController) on email: hristian.ilioski@gmail.com
