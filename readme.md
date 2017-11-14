@@ -29,6 +29,7 @@ Add `years` and `next_birthday_date` property in `User` object.
 <b>Example:</b>
 
 years = 24
+
 next_birthday = 2018-01-21
 
 #### Initial setup:
