@@ -32,7 +32,7 @@ years = 24
 
 next_birthday = 2018-01-21
 
-#### Initial setup:
+## Initial setup:
 Run the following commands to make initial setup for this Test Case
 
 1. Copy `.env.example` to `.env` and change DB connection parameters
