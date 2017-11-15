@@ -1,10 +1,10 @@
 ## Test case: Upcoming Birthdays
 
-We have few users inserted in our `users` table with the `name` and `birth_date` values. We need to list all of our users sorted by UPCOMING BIRTHDAYS.
+We have few users inserted in our `users` table with the `name` and `birth_date` values. We need to list all of our users and their birthdays sorted by UPCOMING BIRTHDAYS.
 
-<b>For example:</b> If John birthday is on March 3th, Anna birthday is on April 10th and today is March 15th then list should looks like this:
-1. Anna -> April 10th
-2. John -> March 3th
+<b>For example:</b> If John's birthday is on March 3rd, 1990, Anna's birthday is on April 10th, 1990 and today is March 15th, 1990 then list should look like this:
+1. Anna -> April 10th, 2017
+2. John -> March 3th, 2018
 
 We have the following users in our database:
 1. John Doe	-> 1994-01-21
